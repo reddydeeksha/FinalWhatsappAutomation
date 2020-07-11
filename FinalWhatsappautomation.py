@@ -50,13 +50,4 @@ while True:
     if flag:
         output=reply_with_ai(lamsg)
         send_msg(output)
-        '''if 'hi' in lamsg:
-            send_msg('hello')
-        elif 'class' in lamsg:
-            send_msg('no class')
-        elif 'lunch' in lamsg:
-            send_msg('ha nuv')
-        elif 'ssup' in lamsg:
-            send_msg('roof')
-        else:
-            send_msg('sorry')'''
+  
